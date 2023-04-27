@@ -1,5 +1,5 @@
 
-###About
+### About
 
 As a software developer with over 16 years of experience in Java and related technologies, I've developed a passion for remote work and leadership. 
 
@@ -11,7 +11,4 @@ If you're looking for a dedicated and experienced software developer with a pass
 
 
 
-| <a href="https://github.com/saulobpereira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saulobpereira&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Saulos's github stats" /></a> | <a href="https://github.com/saulobpereira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulobpereira&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/saulobp/)
